@@ -26,6 +26,13 @@ The project uses the Home Credit Default Risk dataset, which includes:
 - **Credit Card Balance**: Credit card usage data
 - **POS Cash Balance**: Point of sale transactions
 
+### 📥 Download the Dataset
+
+You can download the complete dataset from Kaggle:
+**[Home Credit Default Risk Dataset](https://www.kaggle.com/competitions/home-credit-default-risk/data)**
+
+After downloading, extract the files to the `home-credit-default-risk/` directory in your project folder.
+
 ## 🛠️ Technologies Used
 
 - **Python 3.x**
@@ -87,6 +94,11 @@ pip install pandas numpy matplotlib seaborn lightgbm scikit-learn optuna joblib
 ```bash
 pip install jupyter
 ```
+
+4. Download the dataset:
+   - Visit [Home Credit Default Risk Dataset](https://www.kaggle.com/competitions/home-credit-default-risk/data)
+   - Download all CSV files
+   - Extract them to the `home-credit-default-risk/` directory
 
 ### Usage
 
